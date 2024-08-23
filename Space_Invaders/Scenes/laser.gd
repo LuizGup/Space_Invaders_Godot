@@ -7,4 +7,3 @@ class_name Laser
 
 func _process(delta):
 	position.y -= delta * speed
-

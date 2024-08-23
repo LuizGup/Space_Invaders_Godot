@@ -55,4 +55,3 @@ func on_life_lost(lifes_left:int):
 		on_game_lost()
 
 	
-

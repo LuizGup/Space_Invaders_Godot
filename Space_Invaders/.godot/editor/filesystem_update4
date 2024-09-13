@@ -2,7 +2,6 @@ res://Scenes/start_screen.tscn
 res://Resources/invader_config.gd
 res://Scenes/bunker_part.gd
 res://Scenes/UI_1.gd
-res://Scenes/laser.gd
 res://Scenes/main.tscn
 res://Scenes/laser.tscn
 res://Scenes/player.tscn
